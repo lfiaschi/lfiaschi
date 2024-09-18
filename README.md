@@ -22,7 +22,6 @@
 
 This repository showcases some of my personal projects, experiments, and contributions to the data science and AI community. Feel free to explore and reach out if you have any questions!
 
-[List of notable projects/repos with brief descriptions]
 
 ## Publications
 
