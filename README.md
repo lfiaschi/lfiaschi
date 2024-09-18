@@ -32,8 +32,6 @@ This repository showcases some of my personal projects, experiments, and contrib
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/lfiaschi)
-- [Twitter](https://twitter.com/lucafiaschi)
-- [Medium](https://medium.com/@luca.fiaschi)
 
 ## Speaking Engagements
 
