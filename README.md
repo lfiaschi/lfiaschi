@@ -1,4 +1,4 @@
-# Luca Fiaschi
+# Luca Fiaschi, PhD
 
 👋 Hello! I'm Luca Fiaschi, a senior tech executive and AI/ML expert passionate about leveraging data science to drive business impact.
 
