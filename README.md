@@ -15,7 +15,7 @@
 - Machine Learning & AI
 - Data Science & Analytics
 - Bayesian Modeling
-- AB testing
+- Causal Inference & AB testing
 - Personalization & Recommender Systems
 - Data Engineering & Big Data & ML Ops
 - Business Strategy & Product Management
