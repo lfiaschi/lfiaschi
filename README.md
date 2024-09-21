@@ -1,14 +1,13 @@
 # Luca Fiaschi, PhD
 
-👋 Hello! I'm Luca Fiaschi, a senior tech executive and AI/ML expert passionate about leveraging AI  and Machine Learning to drive business impact.
+👋 Hello! I'm Luca Fiaschi, a Senior Tech executive and AI/ML expert passionate about leveraging AI to drive business impact and develop innovative products.
 
 ## About Me
 
 - 🚀 Chief Data, AI & Monetization Officer at Mistplay
-- 🧠 Former VP of Machine Learning & Data Science at Stitch Fix
--    Former VP of 
+- 🧠 Former VP of Data & Machine Learning at HelloFresh
 - 📊 15+ years of experience leading data teams in fast-growing tech companies
-- 🎓 PhD in Machine Learning & Computer Vision from Heidelberg University
+- 🎓 PhD in Machine Learning & Computer Vision from [Heidelberg University](https://www.uni-heidelberg.de/en) (Germany)
 
 ## Expertise
 
@@ -16,6 +15,8 @@
 - Data Science & Analytics
 - Bayesian Modeling
 - Causal Inference & AB testing
+- Optimization Models for Supply Chain
+- Forecasting
 - Personalization & Recommender Systems
 - Data Engineering & Big Data & ML Ops
 - Business Strategy & Product Management
