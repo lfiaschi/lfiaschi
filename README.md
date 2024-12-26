@@ -4,10 +4,13 @@
 
 ## About Me
 
-- 🚀 Chief Data, AI & Monetization Officer at Mistplay
-- 🧠 Former VP of Data & Machine Learning at HelloFresh
+- 🎲 **Partner** @ <a href="https://www.pymc-labs.com/" target="_blank">PyMC Labs, building agentic AI solutions and Gen AI.
+- 🚀 Chief Data, AI & Monetization Officer at Mistplay, driving AI-powered user engagement and monetization for the mobile gaming platform.
+- 🧠 Former **VP of Data & Machine Learning at HelloFresh** ($14B),leading data strategy and deploying $800M+ marketing optimization models.
+- 🍏 Former **VP of Data & Machine Learning **at Stitch Fix ($1B+),leading data strategy and deploying $800M+ marketing optimization models.
+- 🍎 Lead Data Scientist at Alibaba’s Lazada ($200B), reducing delivery times by 15% with AI-driven logistics
 - 📊 15+ years of experience leading data teams in fast-growing tech companies
-- 🎓 PhD in Machine Learning & Computer Vision from [Heidelberg University](https://www.uni-heidelberg.de/en) (Germany)
+- 🎓 PhD in AI from [Heidelberg University](https://www.uni-heidelberg.de/en) (Germany) with 500+ citations.
 
 ## Expertise
 
