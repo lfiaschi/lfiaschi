@@ -4,25 +4,26 @@
 
 ## About Me
 
-- 🎲 **Partner** @ <a href="https://www.pymc-labs.com/" target="_blank">PyMC Labs, building agentic AI solutions and Gen AI.
-- 🚀 Chief Data, AI & Monetization Officer at Mistplay, driving AI-powered user engagement and monetization for the mobile gaming platform.
-- 🧠 Former **VP of Data & Machine Learning at HelloFresh** ($14B),leading data strategy and deploying $800M+ marketing optimization models.
-- 🍏 Former **VP of Data & Machine Learning **at Stitch Fix ($1B+),leading data strategy and deploying $800M+ marketing optimization models.
-- 🍎 Lead Data Scientist at Alibaba’s Lazada ($200B), reducing delivery times by 15% with AI-driven logistics
+- 🎲 **Partner** @ [PyMC Labs](https://www.pymc-labs.com/) building agentic AI solutions and Gen AI.
+- 🚀 **Chief Data & AI Officer** @ Mistplay, driving AI-powered user engagement and monetization.
+- 🧠 **VP of Data & Machine Learning** @ HelloFresh ($14B)
+- 🍏 **VP of Data & Machine Learning** @ Stitch Fix ($1B+)
+- 🍎 **Lead Data Scientist** @ Alibaba’s Redmart ($200B+)
 - 📊 15+ years of experience leading data teams in fast-growing tech companies
 - 🎓 PhD in AI from [Heidelberg University](https://www.uni-heidelberg.de/en) (Germany) with 500+ citations.
 
 ## Expertise
 
-- Machine Learning & AI
-- Data Science & Analytics
-- Bayesian Modeling
-- Causal Inference & AB testing
-- Optimization Models for Supply Chain
-- Forecasting
-- Personalization & Recommender Systems
-- Data Engineering & Big Data & ML Ops
-- Business Strategy & Product Management
+- Scaling Data Engineering, Analytics and AI teams effectively
+- Implementing MLOps and real-time data systems
+- Leveraging Bayesian models in business contexts
+- Causal Inference & AB testing for Product and Marketing
+- Forecasting Models for Supply Chain
+- Implementing scalable Personalization & Recommender Systems
+- Transitioning to senior leadership in tech roles
+- Innovating with GenAI and applied AI in diverse industries
+- Building AI-driven customer engagement platforms
+- Mastering cross-cultural team leadership
 
 ## Projects & Contributions
 
@@ -36,6 +37,7 @@ This repository showcases some of my personal projects, experiments, and contrib
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/lfiaschi)
+- [Intro.co](https://intro.co/lucafiaschi)
 
 ## Speaking Engagements
 
