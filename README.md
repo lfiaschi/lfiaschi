@@ -18,12 +18,16 @@
 - Implementing MLOps and real-time data systems
 - Leveraging Bayesian models in business contexts
 - Causal Inference & AB testing for Product and Marketing
-- Forecasting Models for Supply Chain
 - Implementing scalable Personalization & Recommender Systems
-- Transitioning to senior leadership in tech roles
 - Innovating with GenAI and applied AI in diverse industries
 - Building AI-driven customer engagement platforms
+- Transitioning to senior leadership in tech roles
 - Mastering cross-cultural team leadership
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/lfiaschi)
+- [Intro.co](https://intro.co/lucafiaschi)
 
 ## Projects & Contributions
 
@@ -34,10 +38,6 @@ This repository showcases some of my personal projects, experiments, and contrib
 
 - [Link to academic publications](https://scholar.google.com/citations?user=GBBeVTkAAAAJ&hl=en)
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/lfiaschi)
-- [Intro.co](https://intro.co/lucafiaschi)
 
 ## Speaking Engagements
 
