@@ -1,6 +1,6 @@
 # Luca Fiaschi, PhD
 
-👋 Hello! I'm Luca Fiaschi, a Senior Tech executive and AI/ML expert passionate about leveraging AI to drive business impact and develop innovative products.
+👋 Hello! I'm Luca Fiaschi, a Senior Tech executive and AI/ML expert who is passionate about turning AI-driven products into transformative business outcomes. My experience includes scaling cross-functional teams to 100+, implementing cutting-edge personalization, combating fraud, and enhancing user experience to drive revenue and retention. I’ve delivered these results at scale, serving millions of users daily across industries and organizations such as Stitch Fix and Alibaba (e-commerce), HelloFresh (food delivery), and Mistplay (gaming).
 
 ## About Me
 
@@ -13,6 +13,10 @@
 - 🎓 PhD in AI from [Heidelberg University](https://www.uni-heidelberg.de/en) (Germany) with 500+ citations.
 
 ## Expertise
+
+🔍 My expertise spans data strategy, machine learning, MLOps, and marketing analytics, with a particular focus on enterprise AI solutions, reinforcement learning, and generative AI. From building experimentation platforms enabling 200+ tests annually to reducing fraud by 90% with advanced ML models, I love using data to drive impactful decisions.
+
+Things I can help with:
 
 - Scaling Data Engineering, Analytics and AI teams effectively
 - Implementing MLOps and real-time data systems
@@ -45,4 +49,4 @@ I frequently speak at conferences and events on topics related to AI, machine le
 
 ## Let's Collaborate!
 
-I'm always excited to collaborate on innovative projects or discuss new ideas in the AI and data science space.  I offer consulting services to set up optimal data infrastructure or develop AI products. If you have an interesting project or just want to chat, don't hesitate to get in touch!
+🤝 If you're navigating the world of AI in business, seeking innovative product strategies, or diving into the challenges of scaling global tech teams, I’d love to connect. Whether it’s AI product development, career growth in data science, or angel investment insights, I’m here to share my learnings and exchange ideas. A portion of my time and resources supports initiatives that nurture innovation and education in technology, reflecting my belief in creating lasting positive impact.
