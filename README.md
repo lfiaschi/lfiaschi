@@ -1,6 +1,6 @@
 # Luca Fiaschi, PhD
 
-👋 Hello! I'm Luca Fiaschi, a Senior Tech executive and AI/ML expert who is passionate about turning AI-driven products into transformative business outcomes. My experience includes scaling cross-functional teams to 100+, implementing cutting-edge personalization, combating fraud, and enhancing user experience to drive revenue and retention. I’ve delivered these results at scale, serving millions of users daily across industries and organizations such as Stitch Fix and Alibaba (e-commerce), HelloFresh (food delivery), and Mistplay (gaming).
+👋 Hello! I'm Luca Fiaschi, a Tech executive and AI/ML expert who is passionate about turning AI-driven products into transformative business outcomes. My experience includes scaling cross-functional teams to 100+, implementing cutting-edge personalization, combating fraud, and enhancing user experience to drive revenue and retention. I’ve delivered these results at scale, serving millions of users daily across industries and organizations such as Stitch Fix and Alibaba (e-commerce), HelloFresh (food delivery), and Mistplay (gaming).
 
 ## About Me
 
@@ -14,9 +14,9 @@
 
 ## Expertise
 
-🔍 My expertise spans data strategy, machine learning, MLOps, and marketing analytics, with a particular focus on enterprise AI solutions, reinforcement learning, and generative AI. From building experimentation platforms enabling 200+ tests annually to reducing fraud by 90% with advanced ML models, I love using data to drive impactful decisions.
+🔍 My expertise spans analytics, data strategy, data infrastructure, MLOps and machine learning, with a particular focus on enterprise AI solutions, reinforcement learning, and generative AI. From building experimentation platforms enabling 200+ tests annually to reducing fraud by 90% with advanced ML models, I love using data to drive impactful decisions.
 
-Things I can help with:
+**Things I can help with**:
 
 - Scaling Data Engineering, Analytics and AI teams effectively
 - Implementing MLOps and real-time data systems
