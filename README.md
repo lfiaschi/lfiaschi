@@ -6,9 +6,9 @@
 
 - 🎲 **Partner** @ [PyMC Labs](https://www.pymc-labs.com/) building agentic AI solutions and Gen AI.
 - 🚀 **Chief Data & AI Officer** @ Mistplay, driving AI-powered user engagement and monetization.
-- 🧠 **VP of Data & Machine Learning** @ HelloFresh ($14B)
+- 🧠 **VP of Data & Machine Learning** @ HelloFresh ($8B)
 - 🍏 **VP of Data & Machine Learning** @ Stitch Fix ($1B+)
-- 🍎 **Lead Data Scientist** @ Alibaba’s Redmart ($200B+)
+- 🍎 **Lead Data Scientist** @ Alibaba’s Redmart ($130B+)
 - 📊 15+ years of experience leading data teams in fast-growing tech companies
 - 🎓 PhD in AI from [Heidelberg University](https://www.uni-heidelberg.de/en) (Germany) with 500+ citations.
 
